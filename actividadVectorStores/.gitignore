@@ -1,0 +1,21 @@
+# Archivos autogenerados por Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Archivos de configuración y secretos (¡Súper importante!)
+.env
+.env.*
+
+# Entornos virtuales de Python
+venv/
+env/
+.venv/
+
+# Archivos temporales o de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos ocultos del sistema operativo (Mac/Windows)
+.DS_Store
+Thumbs.db
